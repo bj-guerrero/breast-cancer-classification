@@ -1,1 +1,1 @@
-# breast-cancer-classification
+The purpose of the repository is to create a model that best predicts whether a patient's breast cancer is malignant or benign with data obtained here https://www.kaggle.com/niteshyadav3103/breast-cancer-classification.
